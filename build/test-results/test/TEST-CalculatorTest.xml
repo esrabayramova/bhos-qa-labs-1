@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-10-04T15:50:43" hostname="dhcppc5" time="0.09">
+<testsuite name="CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-10-04T16:39:39" hostname="dhcppc5" time="0.08">
   <properties/>
-  <testcase name="Simple addition should work" classname="CalculatorTest" time="0.054"/>
-  <testcase name="repetition 1 of 5" classname="CalculatorTest" time="0.003"/>
+  <testcase name="Simple addition should work" classname="CalculatorTest" time="0.04"/>
+  <testcase name="repetition 1 of 5" classname="CalculatorTest" time="0.004"/>
   <testcase name="repetition 2 of 5" classname="CalculatorTest" time="0.002"/>
   <testcase name="repetition 3 of 5" classname="CalculatorTest" time="0.002"/>
-  <testcase name="repetition 4 of 5" classname="CalculatorTest" time="0.002"/>
+  <testcase name="repetition 4 of 5" classname="CalculatorTest" time="0.001"/>
   <testcase name="repetition 5 of 5" classname="CalculatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
